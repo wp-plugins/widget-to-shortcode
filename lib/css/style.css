@@ -1,0 +1,52 @@
+.wts-holder{
+	width:100%;
+}
+.wts-centered{
+	margin:0px auto;
+}
+.wts-shortcodes{
+	width:46%;
+	float:left;
+	margin:10px;
+	position:relative;
+}
+.wts-shortcodes:hover{
+	background:#eee;
+}
+.wts-shortcodes h4{
+	float:left;
+}
+.wts-shortcodes:after {
+    font-family: "dashicons";
+	right:0px;
+	position:absolute;
+}
+#wts-add-shortcode:before {
+    font-family: "dashicons";
+    content: "\f480";
+}
+
+.widget-top{
+	cursor:pointer !important;
+}
+.wts-shortcode-selected:after{
+	content: "\f147";
+	color:green;
+}
+.wts-action{
+	position:absolute;
+	padding-top: 11px;
+	bottom:14px;
+	border-top: 1px solid #eee;
+	width: 96%;
+}
+#wts-insert{
+	float:right;
+	margin-right:10px;
+}
+
+
+/* thickbox */
+#TB_ajaxContent{
+	width:96% !important;
+}
