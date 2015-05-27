@@ -33,6 +33,7 @@ Also there will be a widget shortcode at the bottom part of every widgets.
 
 1. screenshot-1.png 
 2. screenshot-2.png 
+3. screenshot-3.png 
 
 == Changelog ==
 
