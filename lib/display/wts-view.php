@@ -24,7 +24,7 @@
 								
 								if(!isset($instance[$idbs]['title'])){$instance[$idbs]['title']='';}
 								
-								echo '	<div class="widget-top wts-shortcodes" data-is-selected="0" data-class="'.$widgetClass.'" data-option="'.base64_encode($widgetOption).'" data-number="'.$idbs.'">		
+								echo '	<div class="widget-top wts-shortcodes" data-is-selected="0" data-class="'.$widgetClass.'" data-option="'.$widgetOption.'" data-number="'.$idbs.'">		
 											<div class="widget-title"><h4>'.$wp_registered_widgets[$id]['callback'][0]->name.'<span class="in-widget-title">: '.
 											((strlen($instance[$idbs]['title']) > 40)?substr($instance[$idbs]['title'], 0, 45).'...':$instance[$idbs]['title'])
 											.'</span></h4></div>

@@ -13,6 +13,7 @@ This plugin will let you use any of your active widgets as a shortcode.
 
 This plugin will generate a shortcode version of your existing widgets. With this, you can now add widgets in your posts, pages and even within widgets. The configurations and contents of the widget is still based on how the widgets are set up in your widgets panel.
 
+
 <b>Features</b>
 <ul>
 <li>Very Easy to use</li>
@@ -34,6 +35,9 @@ You will find an `Add Widgets` right after the Add Media button, this should dis
 
 == Changelog ==
 
+= 1.0.1 =
+* Added Shortcode Name at the bottom of the widget at widgets admin page
+* Change the format of the id from encrypted to not encrypted
+
 = 1.0.0 =
 * First Version
-
