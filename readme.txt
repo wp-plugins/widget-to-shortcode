@@ -27,6 +27,7 @@ This plugin will generate a shortcode version of your existing widgets. With thi
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 
 You will find an `Add Widgets` right after the Add Media button, this should display a popup containing all the active widgets.
+Also there will be a widget shortcode at the bottom part of every widgets.
 
 == Screenshots ==
 
